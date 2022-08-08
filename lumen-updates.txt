@@ -1,6 +1,13 @@
 <font size="24" face="GothamBlack"><b>Note: This game is early in development and you will most likely run into some bugs.</b></font>
 
-<font size="26"><b>Version 2.3 - 6/23/22</b></font>
+<font size="26"><b>Version 2.4 - 8/8/22</b></font>
+I really messed up big time didn't I.
+<b>Fixes:</b>
+    - Changed the spelling of "Collectables" to the correct "Collectibles"
+        > Now your save is gone, whoops! I saved your data under the incorrect spelling and now that it's corrected you have a blank slate.
+            > But hey, look on the bright side! Now you get to speedrun collector again.
+
+<font size="26"><b>Version 2.3 - 8/8/22</b></font>
 <b>Additions:</b>
     - Added the Redsky Laberynth (yes, another one)
         > Added the taco collectable
