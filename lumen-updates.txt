@@ -1,5 +1,18 @@
 <font size="24" face="GothamBlack"><b>Note: This game is early in development and you will most likely run into some bugs.</b></font>
 
+<font size="26"><b>Version 2.3 - 6/23/22</b></font>
+<b>Additions:</b>
+    - Added the Redsky Laberynth (yes, another one)
+        > Added the taco collectable
+        > Added the maze trophy collectable
+    - Added new dialog to one of the dolls
+    - Added text for the camera unlock keybind
+<b>Changes:</b>
+    - Tweaked the dummy in the train's dialog
+    - Changed the nothing to see here badge to award when entering a proximity portal instead of a hidden door
+    - Added black and white lighting when in the house dimension.
+    - Disabled the reset character option while in a dimension found via a proximity portal; part of the fun is finding the way back (for some of them)
+
 <font size="26"><b>Version 2.2 - 6/23/22</b></font>
 - Improved the dialog UI
 - Fixed some minor bugs
@@ -13,11 +26,11 @@
 - Added the Lost Corridors stop
 - Added the eggdog, villager, and coin collectibles
 - Added proximity portals that only appear when you are in a certian proximity to them
-    ➔ These portals teleport you to secret places (aka rooms) which aren't normal stops where you can usually find collectables
-    ➔ Added secret rooms
-        ➔ The Cubes
-        ➔ The Cage
-        ➔ House (by ChromeUsage)
+    > These portals teleport you to secret places (aka rooms) which aren't normal stops where you can usually find collectables
+    > Added secret rooms
+        > The Cubes
+        > The Cage
+        > House (by ChromeUsage)
 - Fixed a bug where players could appear invisible to others after teleporting
 
 <font size="26"><b>Version 1.1</b></font>
